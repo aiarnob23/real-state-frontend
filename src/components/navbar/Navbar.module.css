@@ -1,0 +1,11 @@
+
+.activeNav {
+  color: #646ee4 !important;
+  background: white !important;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+li{
+    font-size: 17px;
+}
